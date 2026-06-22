@@ -1,0 +1,11 @@
+{
+  "$schema": "https://www.skills.sh/schema/skills.sh.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Design & Assets",
+      "description": "Dominik's Skills",
+      "skills": ["brand-logos", "satori"]
+    }
+  ]
+}
