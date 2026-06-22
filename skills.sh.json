@@ -3,9 +3,9 @@
   "notGrouped": "bottom",
   "groupings": [
     {
-      "title": "Design & Assets",
-      "description": "Dominik's Skills",
-      "skills": ["brand-logos", "satori"]
+      "title": "Git & Workflow",
+      "description": "Guardrails and conventions for git pushes and pull requests",
+      "skills": ["pr-workflow"]
     }
   ]
 }
