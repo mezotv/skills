@@ -6,6 +6,11 @@
       "title": "Git & Workflow",
       "description": "Guardrails and conventions for git pushes and pull requests",
       "skills": ["pr-workflow"]
+    },
+    {
+      "title": "Conventions",
+      "description": "Code structure and repo organization conventions",
+      "skills": ["code-organization"]
     }
   ]
 }
