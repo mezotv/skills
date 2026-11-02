@@ -1,0 +1,15 @@
+{
+  "look": "film",
+  "skin_key": "0xE2A096",
+  "font": "Satoshi-Variable.ttf",
+  "sources": [
+    {"video": "apple_sdr.mov", "audio": "audioA.wav"},
+    {"video": "apple_sdr2.mov", "audio": "audioB.wav", "pre": "colortemperature=temperature=8200:mix=1,huesaturation=colors=r+y:saturation=-0.2,eq=brightness=-0.025"}
+  ],
+  "keep": [[0, 0.30, 17.66], [0, 19.36, 25.64], [0, 26.84, 28.21], [1, 1.85, 6.72], [1, 6.98, 10.14], [0, 28.21, 30.62], [0, 32.52, 33.24]],
+  "sprite": {"image": "spider.png", "caption": "making sure crawlers", "word": "crawlers"},
+  "cards": [
+    {"image": "logo-databuddy.png", "src": 1, "start": 5.40, "end": 7.05},
+    {"image": "logo-inth.png", "src": 1, "start": 7.05, "end": 10.14}
+  ]
+}
